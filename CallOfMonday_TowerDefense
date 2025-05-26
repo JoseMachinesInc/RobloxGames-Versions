@@ -1,1 +1,5 @@
-Alpha 1.0
+local versionforgame = {}
+
+versionforgame.CurrentVersion = "Alpha 1.0"
+
+return versionforgame
