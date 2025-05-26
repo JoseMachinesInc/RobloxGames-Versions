@@ -1,5 +1,1 @@
-local versionforgame = {}
-
-versionforgame.CurrentVersion = "Alpha 1.0"
-
-return versionforgame
+"Alpha 1.0"
